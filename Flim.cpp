@@ -1,4 +1,5 @@
-//Bollywood-Hollywood Flims Guessing Game where you are given blanks as the number of characters present in the Not-Knnown Movie Then You Guess A Letter From The English Alphabet One At A Time
+//Bollywood-Hollywood Flims Guessing Game where you are given blanks as the number of characters present in the Not-Knnown Movie,
+//Then You Guess A Letter From The English Alphabet One At A Time With ONly A Fixed Number Of Wrong Charcters Allowed.
 #include<bits\stdc++.h>
 using namespace std;
 int main(){
