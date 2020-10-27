@@ -1,2 +1,2 @@
 # Begginer_Scripts
-These are some Beginner-Level C++ Scripts I have composed for games.
+I am Starting out in Programming and I wrote these Simple Code Scripts For Applications.
