@@ -1,5 +1,7 @@
-//Bollywood-Hollywood Flims Guessing Game where you are given blanks as the number of characters present in the Not-Knnown Movie,
-//Then You Guess A Letter From The English Alphabet One At A Time With ONly A Fixed Number Of Wrong Charcters Allowed.
+//Bollywood-Hollywood (Kinda Like Hangman)
+//Player_1(Computer) prints blanks on the screen equal to the number of characters present in the movie.
+//Player_2(User) will Try and Guess the movie one character in one iteration.
+//If Player_2(User) makes 9 wrong guesses he loses.
 #include<bits\stdc++.h>
 using namespace std;
 int main(){
