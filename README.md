@@ -1,2 +1,2 @@
-# Begginer_Scripts
+# Beginner-Level Scripts
 Simple C++ Code Scripts.
