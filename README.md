@@ -1,2 +1,2 @@
 # Beginner-Level Scripts
-Simple C++ Code Scripts.
+Simple and Short Programs I made while learning C++.
