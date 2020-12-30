@@ -1,2 +1,2 @@
 # Beginner-Level Scripts
-Simple and Short Programs I made while learning C++.
+Simple and Short Scripts for Tic-Tac-Toe I made while learning C++.
